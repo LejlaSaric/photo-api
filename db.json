@@ -1,5 +1,16 @@
-[
-  { "id": "1", "img_src": "https://picsum.photos/id/10/600/600" },
-  { "id": "2", "img_src": "https://picsum.photos/id/20/600/600" },
-  { "id": "3", "img_src": "https://picsum.photos/id/30/600/600" }
-]
+{
+  "photos": [
+    {
+      "id": "1",
+      "img_src": "https://picsum.photos/id/10/600/600"
+    },
+    {
+      "id": "2",
+      "img_src": "https://picsum.photos/id/20/600/600"
+    },
+    {
+      "id": "3",
+      "img_src": "https://picsum.photos/id/30/600/600"
+    }
+  ]
+}
