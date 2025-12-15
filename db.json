@@ -1,16 +1,14 @@
-{
-  "photos": [
-    {
-      "id": "1",
-      "img_src": "https://picsum.photos/300/300?random=1"
-    },
-    {
-      "id": "2",
-      "img_src": "https://picsum.photos/300/300?random=2"
-    },
-    {
-      "id": "3",
-      "img_src": "https://picsum.photos/300/300?random=3"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "img_src": "https://picsum.photos/id/237/300/300"
+  },
+  {
+    "id": "2",
+    "img_src": "https://picsum.photos/id/238/300/300"
+  },
+  {
+    "id": "3",
+    "img_src": "https://picsum.photos/id/239/300/300"
+  }
+]
